@@ -1,0 +1,149 @@
+c:\users\hp\documents\visual studio 2015\Projects\Store_Software\Store_Software\bin\Debug\Store_Software.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.GenerateResource.Cache
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\Store_Software.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\Store_Software.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\MySql.Data.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\MySql.Web.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\Google.Protobuf.dll
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\MySql.Data.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\bin\Debug\MySql.Web.xml
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.exe
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.pdb
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Home.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Login.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Inventory.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Customer.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Dreport.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Invoice.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Report.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Sreport.resources
+C:\Users\HP\Documents\Visual Studio 2015\Projects\Store_Software\Store_Software\obj\Debug\Store_Software.Total.resources
+E:\Store_Software\Store_Software\bin\Debug\Store_Software.exe.config
+E:\Store_Software\Store_Software\bin\Debug\Store_Software.exe
+E:\Store_Software\Store_Software\bin\Debug\Store_Software.pdb
+E:\Store_Software\Store_Software\bin\Debug\Google.Protobuf.dll
+E:\Store_Software\Store_Software\bin\Debug\MySql.Data.xml
+E:\Store_Software\Store_Software\bin\Debug\MySql.Data.EntityFramework.xml
+E:\Store_Software\Store_Software\bin\Debug\MySql.Web.xml
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.csprojAssemblyReference.cache
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Customer.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Dreport.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Invoice.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Login.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Inventory.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Home.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Properties.Resources.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Report.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Sreport.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.Total.resources
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.GenerateResource.cache
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.CoreCompileInputs.cache
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.CopyComplete
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.exe
+E:\Store_Software\Store_Software\obj\Debug\Store_Software.pdb
+E:\Store_Software\Store_Software\bin\Debug\new.mdf
+E:\Store_Software\Store_Software\bin\Debug\new_log.ldf
+E:\Store_Software\Store_Software\bin\Debug\Dapper.dll
+E:\Store_Software\Store_Software\bin\Debug\Dapper.xml
+D:\Store_Software\Store_Software\bin\Debug\Store_Software.exe.config
+D:\Store_Software\Store_Software\bin\Debug\Store_Software.exe.manifest
+D:\Store_Software\Store_Software\bin\Debug\Store_Software.application
+D:\Store_Software\Store_Software\bin\Debug\Store_Software.exe
+D:\Store_Software\Store_Software\bin\Debug\Store_Software.pdb
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.Shared.dll
+D:\Store_Software\Store_Software\bin\Debug\Dapper.dll
+D:\Store_Software\Store_Software\bin\Debug\log4net.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Store_Software\Store_Software\bin\Debug\stdole.dll
+D:\Store_Software\Store_Software\bin\Debug\Dapper.xml
+D:\Store_Software\Store_Software\bin\Debug\log4net.xml
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.csprojAssemblyReference.cache
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Customer.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Dreport.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Invoice.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Login.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Inventory.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Home.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Properties.Resources.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Sreport.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.Total.resources
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.GenerateResource.cache
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.CoreCompileInputs.cache
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.exe.manifest
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.application
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.CopyComplete
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.exe
+D:\Store_Software\Store_Software\obj\Debug\Store_Software.pdb
+G:\Store_Software\Store_Software\bin\Debug\Store_Software.exe.config
+G:\Store_Software\Store_Software\obj\Debug\Store_Software.exe
+G:\Store_Software\Store_Software\obj\Debug\Store_Software.pdb
+D:\Store_Software\Store_Software\bin\Debug\new.mdf
+D:\Store_Software\Store_Software\bin\Debug\new_log.ldf
+E:\Mine\Store_Software\Store_Software\bin\Debug\new.mdf
+E:\Mine\Store_Software\Store_Software\bin\Debug\new_log.ldf
+E:\Mine\Store_Software\Store_Software\bin\Debug\Store_Software.exe.config
+E:\Mine\Store_Software\Store_Software\bin\Debug\Store_Software.exe.manifest
+E:\Mine\Store_Software\Store_Software\bin\Debug\Store_Software.application
+E:\Mine\Store_Software\Store_Software\bin\Debug\Store_Software.exe
+E:\Mine\Store_Software\Store_Software\bin\Debug\Store_Software.pdb
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.Shared.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Dapper.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\log4net.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\stdole.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Dapper.xml
+E:\Mine\Store_Software\Store_Software\bin\Debug\log4net.xml
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.csprojAssemblyReference.cache
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Customer.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Dreport.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Invoice.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Login.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Inventory.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Home.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Properties.Resources.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Sreport.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Total.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.GenerateResource.cache
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.CoreCompileInputs.cache
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.exe.manifest
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.application
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.csproj.CopyComplete
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.exe
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.pdb
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Invoice.ar-AE.resources
+E:\Mine\Store_Software\Store_Software\bin\Debug\ar-AE\Store_Software.resources.dll
+E:\Mine\Store_Software\Store_Software\obj\Debug\ar-AE\Store_Software.resources.dll
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.aa.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Login.ar-AE.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.all.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Findinv.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.user.resources
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.Report.resources
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.Smo.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.Dmf.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+E:\Mine\Store_Software\Store_Software\bin\Debug\Microsoft.SqlServer.RegSvrEnum.dll
+E:\Mine\Store_Software\Store_Software\obj\Debug\Store_Software.back.resources
